@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/kntnbotwa"
+    "url": "git+https://github.com/baybot12/BOTV3"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "ABAY",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/kntnbotwa/issues"
+    "url": "https://github.com/baybot12/BOTV3/issues"
   },
-  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
+  "homepage": "https://github.com/baybot12/BOTV3#readme"
 }
